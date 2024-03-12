@@ -1,0 +1,283 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1710178606824701, "dur":63, "ph":"X", "name": "IPC_Client_InitializeAndConnectToParent",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1710178606824847, "dur":51394, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1710178606876259, "dur":733, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1710178606877043, "dur":269, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1710178606877493, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /Maxter GameJam_Data/level1" }}
+,{ "pid":12345, "tid":0, "ts":1710178606877834, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /Maxter GameJam_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":0, "ts":1710178606877919, "dur":64, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /Maxter GameJam_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":0, "ts":1710178606878310, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /Maxter GameJam_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":0, "ts":1710178606878368, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /Maxter GameJam_Data/sharedassets1.resource" }}
+,{ "pid":12345, "tid":0, "ts":1710178606878488, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /Maxter GameJam_Data/sharedassets2.assets.resS" }}
+,{ "pid":12345, "tid":0, "ts":1710178606878897, "dur":61, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":0, "ts":1710178606880201, "dur":143, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /Maxter GameJam_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1710178606881718, "dur":228, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /Maxter GameJam_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":0, "ts":1710178606881989, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /Maxter GameJam_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":0, "ts":1710178606882210, "dur":178, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /Maxter GameJam_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":0, "ts":1710178606882866, "dur":64, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /Maxter GameJam_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":0, "ts":1710178606882936, "dur":76, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /Maxter GameJam_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":0, "ts":1710178606883080, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /Maxter GameJam_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":0, "ts":1710178606883332, "dur":81, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /Maxter GameJam_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":0, "ts":1710178606883429, "dur":302, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /Maxter GameJam_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":0, "ts":1710178606883745, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /Maxter GameJam_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":0, "ts":1710178606883800, "dur":89, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /Maxter GameJam_Data/app.info" }}
+,{ "pid":12345, "tid":0, "ts":1710178606883896, "dur":123, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":0, "ts":1710178606884026, "dur":90, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /Maxter GameJam_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":0, "ts":1710178606884122, "dur":71, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /Maxter GameJam.exe" }}
+,{ "pid":12345, "tid":0, "ts":1710178606884305, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":0, "ts":1710178606884363, "dur":59, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":0, "ts":1710178606884518, "dur":67, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":0, "ts":1710178606884679, "dur":65, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":0, "ts":1710178606885093, "dur":57, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":0, "ts":1710178606877346, "dur":7934, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1710178606885283, "dur":651966, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1710178607537251, "dur":232, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1710178607537642, "dur":5065, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1710178606878369, "dur":6927, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1710178606885301, "dur":15280, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1710178606903105, "dur":2117, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":1, "ts":1710178606905234, "dur":238, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1710178606905503, "dur":12839, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":1, "ts":1710178606918345, "dur":164, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":1, "ts":1710178606918870, "dur":557, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\ProjectUnity\\Maxter GameJam\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":1, "ts":1710178606919430, "dur":804, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\ProjectUnity\\Maxter GameJam\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":1, "ts":1710178606920238, "dur":1113, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\ProjectUnity\\Maxter GameJam\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":1, "ts":1710178606921354, "dur":2556, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\ProjectUnity\\Maxter GameJam\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":1, "ts":1710178606923915, "dur":3291, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\ProjectUnity\\Maxter GameJam\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1710178606927209, "dur":1053, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\ProjectUnity\\Maxter GameJam\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":1, "ts":1710178606928270, "dur":789, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\ProjectUnity\\Maxter GameJam\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":1, "ts":1710178606929068, "dur":308, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\unity\\2022.3.8f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\Facades\\netstandard.dll" }}
+,{ "pid":12345, "tid":1, "ts":1710178606929483, "dur":280, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\Player5f0ff2ee-inputdata.json" }}
+,{ "pid":12345, "tid":1, "ts":1710178606905231, "dur":24760, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1710178606930433, "dur":93, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1710178606932444, "dur":575813, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1710178607523280, "dur":11336, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1710178607523278, "dur":11341, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Maxter GameJam_Data/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1710178607534686, "dur":2498, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1710178606878454, "dur":6869, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1710178606885327, "dur":1520, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1710178606886848, "dur":1829, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1710178606890089, "dur":2745, "ph":"X", "name": "File",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\sharedassets5.resource" }}
+,{ "pid":12345, "tid":2, "ts":1710178606888678, "dur":5523, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1710178606894201, "dur":6387, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1710178606900633, "dur":238, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\unity\\2022.3.8f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\mconfig\\config.xml" }}
+,{ "pid":12345, "tid":2, "ts":1710178606900602, "dur":271, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":2, "ts":1710178606906212, "dur":4362, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":2, "ts":1710178606910678, "dur":1066, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":2, "ts":1710178606911802, "dur":5211, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":2, "ts":1710178606917228, "dur":343, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\unity\\2022.3.8f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\machine.config" }}
+,{ "pid":12345, "tid":2, "ts":1710178606917226, "dur":348, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":2, "ts":1710178606917597, "dur":3407, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":2, "ts":1710178606921103, "dur":342, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\unity\\2022.3.8f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\web.config" }}
+,{ "pid":12345, "tid":2, "ts":1710178606921101, "dur":345, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":2, "ts":1710178606921982, "dur":5001, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":2, "ts":1710178606927144, "dur":216, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":2, "ts":1710178606927381, "dur":5574, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":2, "ts":1710178606933127, "dur":250, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":2, "ts":1710178606933394, "dur":2957, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":2, "ts":1710178606936461, "dur":218, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":2, "ts":1710178606937351, "dur":2956, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":2, "ts":1710178606940412, "dur":227, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\unity\\2022.3.8f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":2, "ts":1710178606940409, "dur":232, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":2, "ts":1710178606940795, "dur":30015, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":2, "ts":1710178606970949, "dur":5806, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":2, "ts":1710178606986611, "dur":75, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1710178606976941, "dur":9766, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":2, "ts":1710178606986864, "dur":5858, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":2, "ts":1710178606992856, "dur":4002, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":2, "ts":1710178606997020, "dur":10567, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":2, "ts":1710178607007704, "dur":4285, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":2, "ts":1710178607012110, "dur":8042, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":2, "ts":1710178607026218, "dur":67, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1710178607020359, "dur":5958, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":2, "ts":1710178607026486, "dur":3294, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":2, "ts":1710178607029886, "dur":5268, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1710178607035411, "dur":4087, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1710178607039629, "dur":3316, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1710178607043168, "dur":3072, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1710178607046405, "dur":3882, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1710178607050418, "dur":26720, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1710178607077266, "dur":11666, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1710178607089107, "dur":4008, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1710178607093273, "dur":4569, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1710178607098044, "dur":23822, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1710178607122010, "dur":4837, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1710178607127127, "dur":2700, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1710178607129962, "dur":7619, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1710178607137741, "dur":3379, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1710178607141247, "dur":2430, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1710178607143853, "dur":3012, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1710178607147054, "dur":3157, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1710178607150328, "dur":7073, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1710178607157559, "dur":5121, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1710178607162780, "dur":72, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1710178607162855, "dur":5402, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1710178607168381, "dur":2433, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1710178607170913, "dur":216, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\unity\\2022.3.8f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityPlayer.dll" }}
+,{ "pid":12345, "tid":2, "ts":1710178607170910, "dur":221, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /UnityPlayer.dll" }}
+,{ "pid":12345, "tid":2, "ts":1710178607171149, "dur":105999, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":2, "ts":1710178607277321, "dur":4670, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":2, "ts":1710178607282139, "dur":26522, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":2, "ts":1710178607308772, "dur":8131, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":2, "ts":1710178607317060, "dur":13341, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/level5.resS" }}
+,{ "pid":12345, "tid":2, "ts":1710178607330511, "dur":5662, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/level4.resS" }}
+,{ "pid":12345, "tid":2, "ts":1710178607336307, "dur":7698, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/level3.resS" }}
+,{ "pid":12345, "tid":2, "ts":1710178607344198, "dur":11789, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/level2" }}
+,{ "pid":12345, "tid":2, "ts":1710178607364512, "dur":50, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1710178607356111, "dur":8491, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/level1" }}
+,{ "pid":12345, "tid":2, "ts":1710178607364805, "dur":15150, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":2, "ts":1710178607380057, "dur":157183, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1710178606878443, "dur":6862, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1710178606885319, "dur":2122, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1710178606888159, "dur":502, "ph":"X", "name": "File",  "args": { "detail":"C:\\unity\\2022.3.8f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710178606888886, "dur":3326, "ph":"X", "name": "File",  "args": { "detail":"C:\\unity\\2022.3.8f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710178606893021, "dur":1067, "ph":"X", "name": "File",  "args": { "detail":"C:\\unity\\2022.3.8f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710178606887442, "dur":6951, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1710178606894393, "dur":6191, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1710178606900613, "dur":1957, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1710178606903175, "dur":6641, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/app.info" }}
+,{ "pid":12345, "tid":3, "ts":1710178606909830, "dur":401, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":3, "ts":1710178606910598, "dur":3460, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":3, "ts":1710178606914171, "dur":212, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1710178606914496, "dur":3617, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1710178606918273, "dur":219, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1710178606919350, "dur":2862, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1710178606922320, "dur":247, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\unity\\2022.3.8f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1710178606922317, "dur":252, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1710178606924389, "dur":3131, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1710178606927671, "dur":378, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1710178606928928, "dur":2352, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1710178606931373, "dur":2765, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1710178606934156, "dur":188, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1710178606934362, "dur":12030, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1710178606946893, "dur":18246, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710178606968114, "dur":10046, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710178606978317, "dur":11493, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710178606990020, "dur":3368, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710178606993519, "dur":11726, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710178607005378, "dur":5406, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710178607010926, "dur":3956, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710178607014998, "dur":5506, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710178607020636, "dur":5883, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710178607026624, "dur":2313, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710178607029077, "dur":6243, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710178607035437, "dur":7504, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710178607054780, "dur":3214, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1710178607058002, "dur":3127, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710178607061336, "dur":3486, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710178607064943, "dur":3874, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710178607068973, "dur":5635, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710178607074753, "dur":2694, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710178607077583, "dur":3299, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710178607081093, "dur":12031, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710178607093255, "dur":8698, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710178607102090, "dur":7013, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710178607109234, "dur":3817, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710178607113178, "dur":5038, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710178607118406, "dur":6210, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710178607124763, "dur":3258, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710178607128247, "dur":3119, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710178607131555, "dur":6712, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710178607138404, "dur":9942, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710178607148492, "dur":6212, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710178607154875, "dur":7729, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710178607162700, "dur":5585, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710178607168420, "dur":4586, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710178607173129, "dur":14149, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/sharedassets5.resource" }}
+,{ "pid":12345, "tid":3, "ts":1710178607187394, "dur":6367, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/sharedassets5.assets" }}
+,{ "pid":12345, "tid":3, "ts":1710178607193890, "dur":43308, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/sharedassets4.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1710178607237300, "dur":24566, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/sharedassets3.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1710178607262033, "dur":10333, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/sharedassets2.resource" }}
+,{ "pid":12345, "tid":3, "ts":1710178607272494, "dur":8699, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/sharedassets2.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1710178607281320, "dur":10174, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1710178607291924, "dur":16620, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":3, "ts":1710178607308676, "dur":4341, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":3, "ts":1710178607313294, "dur":23202, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":3, "ts":1710178607336601, "dur":10484, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/level3" }}
+,{ "pid":12345, "tid":3, "ts":1710178607347260, "dur":13475, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/level1.resS" }}
+,{ "pid":12345, "tid":3, "ts":1710178607360856, "dur":20152, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1710178607381108, "dur":156125, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1710178606878505, "dur":6824, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1710178606885330, "dur":2025, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1710178606887356, "dur":2240, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1710178606889599, "dur":2009, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1710178606891610, "dur":991, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1710178606892602, "dur":7985, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1710178606900621, "dur":197, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\unity\\2022.3.8f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":4, "ts":1710178606900601, "dur":219, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":4, "ts":1710178606902547, "dur":10878, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":4, "ts":1710178606913537, "dur":287, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\unity\\2022.3.8f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\web.config" }}
+,{ "pid":12345, "tid":4, "ts":1710178606913533, "dur":293, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1710178606914224, "dur":3424, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1710178606917737, "dur":183, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1710178606917938, "dur":3127, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1710178606921167, "dur":374, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":4, "ts":1710178606922142, "dur":6112, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":4, "ts":1710178606928372, "dur":202, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\unity\\2022.3.8f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\web.config" }}
+,{ "pid":12345, "tid":4, "ts":1710178606928369, "dur":206, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1710178606928965, "dur":2433, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1710178606931730, "dur":1029, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\unity\\2022.3.8f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1710178606931727, "dur":1037, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1710178606932921, "dur":3564, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1710178606936572, "dur":173, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\unity\\2022.3.8f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710178606936568, "dur":178, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710178606937280, "dur":3451, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710178606940821, "dur":84, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Temp\\StagingArea\\WindowsPlayer.exe" }}
+,{ "pid":12345, "tid":4, "ts":1710178606940820, "dur":87, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Maxter GameJam.exe" }}
+,{ "pid":12345, "tid":4, "ts":1710178606940921, "dur":3867, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam.exe" }}
+,{ "pid":12345, "tid":4, "ts":1710178606944900, "dur":250, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Maxter GameJam_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":4, "ts":1710178606945738, "dur":8340, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":4, "ts":1710178606954311, "dur":14320, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710178606968772, "dur":7619, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710178606976514, "dur":12084, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710178606988778, "dur":4533, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710178606993436, "dur":4089, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710178606997641, "dur":8318, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710178607006099, "dur":4780, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710178607011014, "dur":3618, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710178607014780, "dur":6160, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710178607021099, "dur":6771, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710178607028011, "dur":3198, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710178607031326, "dur":10314, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710178607041816, "dur":3015, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710178607044968, "dur":2855, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710178607047956, "dur":6518, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710178607057946, "dur":62, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1710178607054611, "dur":3421, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710178607058172, "dur":2961, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710178607061366, "dur":4265, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710178607065760, "dur":4149, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710178607070192, "dur":4569, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710178607075390, "dur":5795, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710178607081282, "dur":4931, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710178607086330, "dur":2935, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710178607089411, "dur":3634, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710178607093207, "dur":4278, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710178607097651, "dur":31716, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710178607129543, "dur":4946, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710178607134777, "dur":5119, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710178607140050, "dur":100, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\unity\\2022.3.8f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710178607140047, "dur":106, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Maxter GameJam_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710178607140175, "dur":2521, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710178607142876, "dur":3338, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710178607146437, "dur":3295, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710178607149846, "dur":4836, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710178607154879, "dur":94, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1710178607154991, "dur":7496, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710178607162646, "dur":6159, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710178607169027, "dur":8479, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710178607177635, "dur":15780, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/sharedassets5.assets.resS" }}
+,{ "pid":12345, "tid":4, "ts":1710178607193543, "dur":7118, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/sharedassets4.resource" }}
+,{ "pid":12345, "tid":4, "ts":1710178607201091, "dur":4841, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/sharedassets4.assets" }}
+,{ "pid":12345, "tid":4, "ts":1710178607206061, "dur":31228, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/sharedassets3.resource" }}
+,{ "pid":12345, "tid":4, "ts":1710178607237389, "dur":41979, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/sharedassets3.assets" }}
+,{ "pid":12345, "tid":4, "ts":1710178607279515, "dur":7203, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/sharedassets1.resource" }}
+,{ "pid":12345, "tid":4, "ts":1710178607286835, "dur":42571, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":4, "ts":1710178607329532, "dur":4482, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/level5" }}
+,{ "pid":12345, "tid":4, "ts":1710178607334134, "dur":8740, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/level4" }}
+,{ "pid":12345, "tid":4, "ts":1710178607343120, "dur":13153, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/level2.resS" }}
+,{ "pid":12345, "tid":4, "ts":1710178607356853, "dur":19981, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/level0" }}
+,{ "pid":12345, "tid":4, "ts":1710178607376943, "dur":4701, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Maxter GameJam_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":4, "ts":1710178607381746, "dur":155466, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1710178607548865, "dur":3023, "ph":"X", "name": "ProfilerWriteOutput" }
+,
